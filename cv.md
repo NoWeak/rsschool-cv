@@ -2,7 +2,7 @@
 # Contacts
 - Phone: +375(29)617-07-10
 - Email: pavel.novik.2002@mail.ru
-- Discord: DizZer #9991
+- Discord: _dizzer
 - GitHub: [NoWeak](https://github.com/NoWeak)
 # Skills
 - HTML
