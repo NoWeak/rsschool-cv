@@ -17,3 +17,10 @@ function multiply(a, b){
   return(a * b)
 }
 ```
+# Work experience
+  Currently. I don\`t have any work experience, since i\`m new in this sphere.
+# Education
+rs school(in progress)
+# English
+English - Advanced(according to the online test at www.efset.org)
+![image](https://github.com/NoWeak/rsschool-cv/assets/120517908/78c3ca15-709b-428d-9e9d-7c62cffb8f54)
