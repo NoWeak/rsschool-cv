@@ -23,4 +23,5 @@ function multiply(a, b){
 rs school(in progress)
 # English
 English - Advanced(according to the online test at www.efset.org)
-![image](https://github.com/NoWeak/rsschool-cv/assets/120517908/78c3ca15-709b-428d-9e9d-7c62cffb8f54)
+![image](https://github.com/NoWeak/rsschool-cv/assets/120517908/c2ff19ca-ee70-4666-8d3e-e5fe482c33b7)
+
